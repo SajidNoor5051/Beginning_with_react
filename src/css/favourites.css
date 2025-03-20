@@ -1,0 +1,15 @@
+.favourites-container {
+    padding-top: 0px; /* Creates space for the fixed navbar */
+    min-height: 100vh;
+    background-color: #000;
+    color: white;
+  }
+  
+  .favourites-empty {
+    padding: 2rem;
+  }
+  
+  .favourites-empty h1 {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+  }
