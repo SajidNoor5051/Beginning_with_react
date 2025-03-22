@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import MovieCard from "../Components/MovieCard";
-import Navbar from "../Components/Navbar";
 import { fetchPopularMovies, searchMovies } from "../APIs/api";
 
 const Homepage = () => {
